@@ -1,0 +1,14 @@
+C:\Users\GuNX1\Restauraunt\obj\Debug\net8.0\Restauraunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GuNX1\Restauraunt\obj\Debug\net8.0\Restauraunt.AssemblyInfoInputs.cache
+C:\Users\GuNX1\Restauraunt\obj\Debug\net8.0\Restauraunt.AssemblyInfo.cs
+C:\Users\GuNX1\Restauraunt\obj\Debug\net8.0\Restauraunt.csproj.CoreCompileInputs.cache
+C:\Users\GuNX1\Restauraunt\bin\Debug\net8.0\Restauraunt.exe
+C:\Users\GuNX1\Restauraunt\bin\Debug\net8.0\Restauraunt.deps.json
+C:\Users\GuNX1\Restauraunt\bin\Debug\net8.0\Restauraunt.runtimeconfig.json
+C:\Users\GuNX1\Restauraunt\bin\Debug\net8.0\Restauraunt.dll
+C:\Users\GuNX1\Restauraunt\bin\Debug\net8.0\Restauraunt.pdb
+C:\Users\GuNX1\Restauraunt\obj\Debug\net8.0\Restauraunt.dll
+C:\Users\GuNX1\Restauraunt\obj\Debug\net8.0\refint\Restauraunt.dll
+C:\Users\GuNX1\Restauraunt\obj\Debug\net8.0\Restauraunt.pdb
+C:\Users\GuNX1\Restauraunt\obj\Debug\net8.0\Restauraunt.genruntimeconfig.cache
+C:\Users\GuNX1\Restauraunt\obj\Debug\net8.0\ref\Restauraunt.dll
